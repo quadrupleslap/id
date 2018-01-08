@@ -1,0 +1,9 @@
+[package]
+name = "id"
+description = "Make unique identifiers."
+license = "Unlicense"
+repository = "https://github.com/quadrupleslap/id"
+version = "0.1.0"
+authors = ["Ram Kaniyur <quadrupleslap@gmail.com>"]
+
+[dependencies]
